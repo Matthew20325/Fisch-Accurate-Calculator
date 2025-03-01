@@ -1,0 +1,4 @@
+fandom-py
+requests
+beautifulsoup4
+customtkinter
